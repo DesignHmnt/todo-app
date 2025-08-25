@@ -1,0 +1,20 @@
+
+
+input{
+    caret-color: transparent;
+    
+}
+button.btn{
+    padding: 4px;
+    font-weight:100px; 
+}
+
+#result {
+
+  font-size: 24px;
+
+}
+#historyList {
+  max-height: 100px;   /* only ~2 items visible */
+  overflow-y: auto;    /* scroll after 2 items */
+}
